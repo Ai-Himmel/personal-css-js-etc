@@ -1,2 +1,2 @@
 # personal-css-js-etc
-some static sources for personal use
+some static resources for personal use
